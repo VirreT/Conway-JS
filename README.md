@@ -26,7 +26,6 @@ The simulation automatically adjusts to your screen size and displays the game s
 1. Clone or download this repository
 2. Open `Conway JS/index.html` in your web browser
 3. The simulation will start automatically with a random initial population
-4. Watch as the cells evolve according to Conway's Game of Life rules
 
 ## Files
 - `index.html` - Main HTML file
