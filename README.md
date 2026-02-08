@@ -1,6 +1,6 @@
 # Conway JS
 
-A JavaScript implementation of Conway's Game of Life that runs in your browser with an interactive canvas display.
+_A JavaScript implementation of Conway's Game of Life in HTML Canvas._
 
 ---
 
